@@ -15,6 +15,6 @@ secrets.txt
 
 # Python virtual environment
 venv/
-env/
+fastapi_env/
 *.pyc
 __pycache__/
